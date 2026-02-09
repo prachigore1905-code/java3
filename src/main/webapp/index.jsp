@@ -5,6 +5,6 @@
 <body>
 <h1> Codingwale Vaijapur</h1>
 <a href="About.jsp"> About Page</a>
-<h3 style="color:green">Nexus Done - 1.0.0 lived</h3>
+<h3 style="color:green">Nexus Done - 2.0.0 lived</h3>
 </body>
 </html>
